@@ -35,4 +35,4 @@ conda run --name base conda-minify -n eval_cnns_gestalt_theory -f environment.ym
 ## References
 
 <a id="1">[1]</a> 
-Ehrensperger, Gregor, Sebastian Stabinger, and Antonio Rodríguez Sánchez. "Evaluating CNNs on the gestalt principle of closure." International Conference on Artificial Neural Networks. Springer, Cham, 2019.`
+Ehrensperger, Gregor, Sebastian Stabinger, and Antonio Rodríguez Sánchez. "Evaluating CNNs on the gestalt principle of closure." International Conference on Artificial Neural Networks. Springer, Cham, 2019.` (URL: [https://arxiv.org/abs/1904.00285](https://arxiv.org/abs/1904.00285))
